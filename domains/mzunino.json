@@ -1,0 +1,10 @@
+{
+  "description": "Personal portfolio site for Mariano Zunino (short for Mariano Zunino)",
+  "repo": "https://github.com/marianozunino/portfolio",
+  "owner": {
+    "username": "marianozunino"
+  },
+  "record": {
+    "CNAME": "mzunino.com.uy"
+  }
+}
